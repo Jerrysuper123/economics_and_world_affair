@@ -1,5 +1,16 @@
 # economics_and_world_affair
 
+## some deep questions on current economic env
+1. Is US still the best investment environment?
+2. Where should we investor park our investment?
+- even if dollarization happend
+- jeffery sach think that it would be a multi-polar and multi curreny world, and US will no longer be a dominant economy, same for its currency
+- even If US loses its position just like UK decades ago,UK today is still a thriving financial market.
+- However, investment env depends on the trust of the business world, with US having a high accounting and finance transparency
+- In China, finance and accounting transparency and regulation is still not there yet
+- Compared to this, Singapore seems to be a good investment env. However, Singapore stock market lacks liquidity and growth. Maybe for dividend gain, but hardly any capital gain
+
+
 ## can USA continue to print money non-stop?
 The U.S. *can always print more money* (through the Federal Reserve) to *repay debt* because:
 
