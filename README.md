@@ -1,5 +1,55 @@
 # economics_and_world_affair
 
+In **Ray Dalio’s** book *The Changing World Order: Why Nations Succeed and Fail*, he examines the historical cycles of empire and economy, and compares the **U.S.** and **China** in that context. Here's how Dalio sees the future trajectory of the **U.S. vs. China**:
+
+---
+
+### 🇺🇸 **United States: Declining Power, But Still Strong**
+
+* **Dalio sees the U.S. in the later stages of its empire cycle**, with signs of decline such as:
+
+  * **High debt levels** and ongoing **monetary inflation**.
+  * Rising **internal conflict** (political polarization, wealth gaps).
+  * **Declining education standards** and **productivity growth**.
+  * Erosion of **global influence**, especially as the dollar’s dominance faces new threats.
+
+* **However**, the U.S. retains many advantages:
+
+  * Strong **innovation**, **military**, **universities**, and **rule of law**.
+  * Leading **financial markets** and global reserve currency (for now).
+  * A culture that still rewards **entrepreneurship and individualism**.
+
+* **Outlook:** The U.S. may remain powerful but is **at risk of relative decline** unless it addresses its internal challenges.
+
+---
+
+### 🇨🇳 **China: Rising Power, But Facing Major Tests**
+
+* China is in the **rising stage of the empire cycle**, with:
+
+  * Strong **economic momentum** and a long-term strategic vision.
+  * Rapidly increasing **technological capabilities**.
+  * Greater control by a **centralized government**, allowing for long-term planning.
+
+* **Risks and constraints:**
+
+  * High **debt levels**, especially in real estate and local governments.
+  * **Authoritarian governance**, which may limit innovation and create social friction.
+  * Growing **geopolitical resistance**, especially from the U.S. and allies.
+  * A **shrinking population** and demographic decline.
+
+* **Outlook:** China has the **potential to overtake the U.S. economically**, but it is **not guaranteed**—success depends on **managing its internal weaknesses and global tensions**.
+
+---
+
+### 🌐 Dalio’s Big Picture:
+
+* He sees a **transition in world order**—the U.S.-led order is weakening, and a **multipolar world** is emerging.
+* A shift from **Western dominance to Eastern influence**, with **China as the central challenger**.
+* The outcome depends heavily on how both nations manage **debt, conflict, innovation, and leadership**.
+
+
+
 ## some deep questions on current economic env
 1. Is US still the best investment environment?
 2. Where should we investor park our investment?
